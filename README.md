@@ -1,5 +1,7 @@
 # REFINET: Reference Tissue Identification using Neural Transformers
 
+![Figura 1](https://github.com/user-attachments/assets/95271ca1-035b-4ea0-9912-e53d32983bd2)
+
 ## Source code usage
 
 To use the REFINET source code, you first need to download the dataset from the 
